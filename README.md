@@ -24,7 +24,7 @@ cd libubox && cmake . && make && sudo make install && sudo ldconfig
 # Install ubus
 git clone https://git.openwrt.org/project/ubus.git
 cd ubus && cmake . && make && sudo make install && sudo ldconfig
-
+```
 
 ### Build
 ```bash
